@@ -41,6 +41,7 @@ background: white;
     gap: 15px;
     width: 255px;
     margin-bottom: 15px;
+    height: 94px;
 }
 .desc__h{
     font-family: 'Rubik' , sans-serif;
@@ -56,4 +57,10 @@ margin-bottom: 5px;
     font-weight: 300;
     line-height: 13px;
 color: #000;
+}
+.services__wrap{
+display: flex;
+justify-content: center;
+align-items: flex-start;
+gap: 30px;
 }
